@@ -13,3 +13,11 @@ h1, .info > h2{
 .info {
     margin-top: 50px;
 }
+
+.info-heading {
+    margin-bottom: 32px;
+}
+
+.button {
+    margin-top: 32px;
+}
