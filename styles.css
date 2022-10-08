@@ -1,0 +1,15 @@
+h1, .info > h2{
+    font-size: 80px;
+}
+
+.main-callout > p {
+    font-size: 32px;
+}
+
+.main-callout {
+    margin-bottom: 50px;
+}
+
+.info {
+    margin-top: 50px;
+}
