@@ -21,3 +21,11 @@ h1, .info > h2{
 .button {
     margin-top: 32px;
 }
+
+footer h2 {
+    font-size: 20px;
+}
+
+footer li {
+    font-size: 20px;
+}
